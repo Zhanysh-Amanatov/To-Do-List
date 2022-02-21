@@ -4,8 +4,9 @@
 * live https://todlist12.netlify.app/
 
 # Technologies used:
-* JavaScript (React)
-* Material UI
+* <a href="https://reactjs.org/">JavaScript(React)</a> 
+* <a href="https://mui.com/getting-started/installation/">Material UI</a>
+* <a href="https://www.netlify.com/">Netlify</a> 
 
 # Features
 * Responsive design
